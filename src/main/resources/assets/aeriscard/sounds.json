@@ -1,0 +1,11 @@
+{
+  "1": {
+    "sounds": [ "aeriscard:1/1" ]
+  },
+  "1.25": {
+    "sounds": [ "aeriscard:1.25/1.25" ]
+  },
+  "1.5": {
+    "sounds": [ "aeriscard:1.5/1.5" ]
+  }
+}
