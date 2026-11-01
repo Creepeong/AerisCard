@@ -33,3 +33,4 @@
 다운로드 한 후 `mods`폴더에 `.jar`파일을 넣고 패브릭 마인크래프트를 실행시켜줍니다
 
 ---
+[최신 버전 다운로드](https://github.com/Creepeong/AerisCard/releases/latest)
