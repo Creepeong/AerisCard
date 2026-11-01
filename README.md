@@ -28,9 +28,9 @@
 
 ---
 ## 설치방법
-아래에서 `.jar`파일을 다운로드해줍니다
+아래에서 `aeriscard-1.0.0.jar`파일을 다운로드해줍니다
 
-다운로드 한 후 `mods`폴더에 `.jar`파일을 넣고 패브릭 마인크래프트를 실행시켜줍니다
+다운로드 한 후 `mods`폴더에 `aeriscard-1.0.0.jar`파일을 넣고 패브릭 마인크래프트를 실행시켜줍니다
 
 ---
 [최신 버전 다운로드](https://github.com/Creepeong/AerisCard/releases/latest)
